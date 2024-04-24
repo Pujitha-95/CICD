@@ -20,6 +20,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+                //new commits are added
 		String itemsNeedsToBeAdded="ADIDAS ORIGINAL"; 
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
